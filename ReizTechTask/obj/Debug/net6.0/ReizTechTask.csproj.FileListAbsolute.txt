@@ -1,0 +1,15 @@
+C:\Project\ReizTechTask\bin\Debug\net6.0\ReizTechTask.exe
+C:\Project\ReizTechTask\bin\Debug\net6.0\ReizTechTask.deps.json
+C:\Project\ReizTechTask\bin\Debug\net6.0\ReizTechTask.runtimeconfig.json
+C:\Project\ReizTechTask\bin\Debug\net6.0\ReizTechTask.dll
+C:\Project\ReizTechTask\bin\Debug\net6.0\ReizTechTask.pdb
+C:\Project\ReizTechTask\obj\Debug\net6.0\ReizTechTask.csproj.AssemblyReference.cache
+C:\Project\ReizTechTask\obj\Debug\net6.0\ReizTechTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\ReizTechTask\obj\Debug\net6.0\ReizTechTask.AssemblyInfoInputs.cache
+C:\Project\ReizTechTask\obj\Debug\net6.0\ReizTechTask.AssemblyInfo.cs
+C:\Project\ReizTechTask\obj\Debug\net6.0\ReizTechTask.csproj.CoreCompileInputs.cache
+C:\Project\ReizTechTask\obj\Debug\net6.0\ReizTechTask.dll
+C:\Project\ReizTechTask\obj\Debug\net6.0\refint\ReizTechTask.dll
+C:\Project\ReizTechTask\obj\Debug\net6.0\ReizTechTask.pdb
+C:\Project\ReizTechTask\obj\Debug\net6.0\ReizTechTask.genruntimeconfig.cache
+C:\Project\ReizTechTask\obj\Debug\net6.0\ref\ReizTechTask.dll
